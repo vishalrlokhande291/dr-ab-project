@@ -1,0 +1,19 @@
+/* footer.component.scss */
+
+.footer-container {
+    background-color: #333;
+    color: #fff;
+    padding: 10px; /* Adjust the padding to control the height */
+    text-align: center;
+  }
+  
+  .details,
+  .contact {
+    margin-bottom: 10px; /* Adjust the margin to control the space between sections */
+  }
+  
+  a {
+    color: #fff;
+    text-decoration: underline;
+  }
+  
