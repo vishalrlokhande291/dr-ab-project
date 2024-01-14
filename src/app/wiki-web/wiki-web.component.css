@@ -1,0 +1,55 @@
+#container {
+    display: flex;
+  }
+  
+  #sidebar {
+    width: 200px;
+    background-color: #f0f0f0;
+    padding: 10px;
+    box-shadow: 2px 0 5px rgba(0, 0, 0, 0.1);
+  }
+  
+  #content {
+    flex: 1;
+    padding: 20px;
+    color: black;
+    background-color: white;
+  }
+  
+  .nav-item {
+    cursor: pointer;
+    padding: 20px;
+    margin-bottom: 10px;
+    background-color: #ddd;
+    border-radius: 10px;
+    font-weight: bold; /* Add this line to make the text bold */
+}
+
+  .frontDiv{
+    float: left;
+    width: 70%;
+  }
+  .content-div {
+    margin-top: 10px;
+    line-height: 20pt; 
+  }
+  
+
+
+
+  img {
+    width: 30%;
+    height: 30%;
+  }
+
+  p,a{
+    font-size: medium
+  }
+
+  h3 {
+    font-weight: bold;
+  }
+
+
+
+  
